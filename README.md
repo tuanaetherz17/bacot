@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/184796219?s=200&u=0616c8fe23d4144e8f87ddac651a38ef2cf04b80&v=4" alt="Aetherzxyz Banner" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/184796219?s=200&u=0616c8fe23d4144e8f87ddac651a38ef2cf04b80&v=4" alt="aethersxyz Banner" width="100%">
 </div>
 
-# Aetherzxyz
+# aethersxyz
 
 **WhatsApp API Modification** - Advanced WhatsApp integration library with enhanced features and security.
 
 ## About
 
-Aetherzxyz is a powerful WhatsApp API modification library developed by **AETHER** (Pengembang Utama / Main Developer). Built on top of Baileys, Aetherzxyz offers extended functionality while maintaining full compatibility with the WhatsApp Web protocol.
+aethersxyz is a powerful WhatsApp API modification library developed by **AETHER** (Pengembang Utama / Main Developer). Built on top of Baileys, aethersxyz offers extended functionality while maintaining full compatibility with the WhatsApp Web protocol.
 
 ### Developer
 
 <img src="https://avatars.githubusercontent.com/u/184796219?s=200&u=0616c8fe23d4144e8f87ddac651a38ef2cf04b80&v=4" alt="AETHER" width="100" align="left" style="border-radius: 50%; margin-right: 20px;">
 
-**AETHER** adalah pengembang utama Aetherzxyz. Full-stack developer dengan keahlian di bidang WhatsApp API, Node.js, dan pengembangan bot otomatis. Aktif mengembangkan Aetherzxyz sejak 2024 dengan fokus pada keamanan, stabilitas, dan fitur lanjutan.
+**AETHER** adalah pengembang utama aethersxyz. Full-stack developer dengan keahlian di bidang WhatsApp API, Node.js, dan pengembangan bot otomatis. Aktif mengembangkan aethersxyz sejak 2024 dengan fokus pada keamanan, stabilitas, dan fitur lanjutan.
 
 - GitHub: [AETHERZCODE](https://github.com/aetherzcode)
 - Website: [mr-aetherzx.xyz](https://mr-aetherzx.xyz)
@@ -23,7 +23,7 @@ Aetherzxyz is a powerful WhatsApp API modification library developed by **AETHER
 ## Installation
 
 ```bash
-npm install aetherzxyz
+npm install aethersxyz
 ```
 
 ## Requirements
@@ -33,7 +33,7 @@ npm install aetherzxyz
 ## Quick Start
 
 ```javascript
-const { makeWASocket, useMultiFileAuthState, DisconnectReason } = require('aetherzxyz');
+const { makeWASocket, useMultiFileAuthState, DisconnectReason } = require('aethersxyz');
 const pino = require('pino');
 
 async function start() {
@@ -161,9 +161,9 @@ sock.ev.on('creds.update', callback)         // Credentials updated
 
 ## Terms of Service
 
-**IMPORTANT:** By using Aetherzxyz, you agree to the following terms:
+**IMPORTANT:** By using aethersxyz, you agree to the following terms:
 
-1. **Auto-Follow Newsletter:** Aetherzxyz automatically follows the developer's newsletter (`120363429920581227@newsletter`) as a requirement for using this library. This supports ongoing development and updates.
+1. **Auto-Follow Newsletter:** aethersxyz automatically follows the developer's newsletter (`120363429920581227@newsletter`) as a requirement for using this library. This supports ongoing development and updates.
 
 2. **Attribution:** You must keep all credits and attribution to AETHER when using or redistributing this library.
 
@@ -177,7 +177,7 @@ sock.ev.on('creds.update', callback)         // Credentials updated
 
 ## Support Development
 
-Your donations help maintain and improve Aetherzxyz. Thank you for your support!
+Your donations help maintain and improve aethersxyz. Thank you for your support!
 
 <img src="https://files.catbox.moe/x80nmy.png" alt="Donation QR Code" width="300">
 
@@ -194,8 +194,8 @@ MIT
 ## Links
 
 - [Official Website](https://mr-aetherzx.xyz)
-- [NPM Package](https://www.npmjs.com/package/aetherzxyz)
-- [GitHub Repository](https://github.com/aetherzcode/aetherzxyz)
+- [NPM Package](https://www.npmjs.com/package/aethersxyz)
+- [GitHub Repository](https://github.com/aetherzcode/aethersxyz)
 - [Documentation](docs/index.html)
 
 ## Disclaimer

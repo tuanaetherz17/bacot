@@ -1,6 +1,6 @@
 {
-    "name": "aetherzxyz",
-    "version": "1.0.9",
+    "name": "aethersxyz",
+    "version": "1.0.0",
     "description": "WhatsApp API Modification By AETHER",
     "keywords": [
         "whatsapp",
@@ -12,9 +12,9 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://www.npmjs.com/package/aetherzxyz",
+    "homepage": "https://www.npmjs.com/package/aethersxyz",
     "repository": {
-        "url": "https://www.npmjs.com/package/aetherzxyz"
+        "url": "https://www.npmjs.com/package/aethersxyz"
     },
     "license": "MIT",
     "author": "AETHER",
